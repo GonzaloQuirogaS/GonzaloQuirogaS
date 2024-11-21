@@ -3,7 +3,7 @@
 Soy Tecnico Universitario en Programacion y desarrollador FullStack apasionado por aprender nuevas tecnologias y abordar nuevos desafios.
 
  ## Skills y herramientas: 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,html,css&theme=light)](https://skillicons.dev)
  
  ## Stats de Github: 
 
